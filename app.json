@@ -1,5 +1,5 @@
 {
-    "name": "rgnk wabot",
+    "name": "H4XX BOT",
     "description": "WhatsApp public/user bot",
     "logo": "",
     "keywords": ["WhatsApp"],
@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"Raganork pack;Author name"
+            "value":"H4XX BOT;BY TOMRT "
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -51,17 +51,17 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"H4XX"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"Raganork;Souravkl11;https://i.imgur.com/YchATyT.jpeg"
+            "value":"H4XX BOT;BY TOMRT;https://imgtr.ee/images/2023/06/16/YREJ3.jpg"
         },
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
